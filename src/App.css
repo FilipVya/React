@@ -28,3 +28,9 @@ background-color: burlywood;
 grid-area: c;
 background-color: aquamarine;
 }
+.app-wrapper-content{
+  grid-area: c;
+  background-color: aquamarine;
+}
+
+
